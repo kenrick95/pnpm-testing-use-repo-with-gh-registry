@@ -1,0 +1,8 @@
+{
+  "name": "@kenrick95/pnpm-testing-use-repo-with-gh-registry",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@kenrick95/pnpm-testing-using-gh-registry": "github:kenrick95/pnpm-testing-using-gh-registry#v1.1.0"
+  }
+}
